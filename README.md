@@ -1,5 +1,5 @@
 
-![Recording](http://localhost:3000/recording.gif "Recording")
+![Recording](https://raw.githubusercontent.com/evgeny12000/tictactoe/master/frontend/public/recording.gif?token=GHSAT0AAAAAACQP3X2U24AVHHLVKTUTZP74ZQ6JGDQ "Recording")
 
 `cd backend`
 
